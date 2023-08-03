@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.387" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="user validates the amazon search functionality" name="Login" time="13.023">
+<system-out><![CDATA[
+Given user navigates to signin page.........................................passed
+When user enters the username and password..................................passed
+Then validate error message.................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
